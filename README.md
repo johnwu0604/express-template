@@ -2,7 +2,7 @@
 
 This is a boiler plate for a Node + Express + Angular 2 webapp stack.
 
-## How to use the template ##
+## Using the template ##
 
 1) Clone the repository
 2) Change the name of the app in bin/wwww, .angular-cli.json, package.json, src/index.html files
