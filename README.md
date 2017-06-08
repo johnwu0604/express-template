@@ -4,8 +4,8 @@ This is a boiler plate for a Node + Express + Angular 2 webapp stack.
 
 ## Using the template ##
 
-1) Clone the repository
-2) Change the name of the app in bin/wwww, .angular-cli.json, package.json, src/index.html files
+1) Clone the repository (Do not move it to a different directory after cloning, otherwise you will lose hidden .angular-cli.json file)
+2) Change the name of the app in bin/wwww, .angular-cli.json (hidden file), package.json, src/index.html files
 
 ## Setup ##
 1) Ensure angular-cli is installed globally: Run "sudo npm install @angular/cli -g"
