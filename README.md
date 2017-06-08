@@ -22,13 +22,13 @@ Any new routes files should be defined in app.js and then added to the routes fo
 2) Add the import for app.module.ts
 3) Add it to the providers in @NgModule (also in app.module.ts)
 4) Implement service functionality in src/app/<name of service>.service.ts file 
-* See test service as example *
+* See test service as example 
 
 ## To create a component in angular 2 ##
 1) Run "ng g component <name of component>"
 2) Implement component in src/app/<name of component>/<name of component>.component.ts
 3) Implement html in src/app/<name of component>/<name of component>.component.html (Bootstrap is already integrated)
-* See test component *
+* See test component as an example
 
 ## Defining routes in angular 2 ##
 UI routes can be added in src/app/app.module.ts (currently the root path displays the test component which uses the test service to call our test endpoint as an example)
